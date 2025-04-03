@@ -4,16 +4,16 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "export": "next export"
+    "start": "next start"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@reduxjs/toolkit": "1.5.0",
     "@tailwindcss/line-clamp": "^0.2.0",
-    "firebase": "^8.6.1",
+    "firebase": "^9.23.0",
     "firebase-admin": "^9.8.0",
-    "next": "latest",
+    "next": "^11.1.4",
+    "next-auth": "^3.29.10",
     "react": "^16.14.0",
     "react-currency-formatter": "^1.1.0",
     "react-dom": "^16.14.0",
